@@ -291,8 +291,8 @@ ul {
 }
 
 .device-image {
-    width: 100%;
-    max-width: 500px;
+    width: 200%;
+    max-width: 900px;
     filter: drop-shadow(0 30px 60px rgba(16, 185, 129, 0.3));
     animation: float 3s ease-in-out infinite;
 }
@@ -342,8 +342,8 @@ ul {
 }
 
 .benefit-image img {
-    width: 80%;
-    height: 80%;
+    width: 90%;
+    height: 90%;
     object-fit: contain;
 }
 
